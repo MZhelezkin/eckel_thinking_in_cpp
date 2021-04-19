@@ -82,6 +82,7 @@ int main(int argc, char** argv)
                 "\n*double d =\t\t" << sizeof(pd) <<
                 "\n*long double =\t\t" << sizeof(pld) << std::endl;
 
+
   exit(0);
 }
 
